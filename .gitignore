@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+firo-mint-plan*.json
+*.json.tmp
